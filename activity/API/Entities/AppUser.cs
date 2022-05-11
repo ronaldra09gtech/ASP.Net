@@ -11,6 +11,5 @@ namespace API.Entities
 
         public int UserName { get; set; }
 
-        prop
     }
 }
