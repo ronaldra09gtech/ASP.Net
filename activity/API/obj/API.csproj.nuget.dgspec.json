@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ronaldavila/Documents/GitHub/ASP.netProject/activity/API/API.csproj": {}
+    "/Users/ronaldavila/Documents/GitHub/ASP.netProject/ASP.Net/activity/API/API.csproj": {}
   },
   "projects": {
-    "/Users/ronaldavila/Documents/GitHub/ASP.netProject/activity/API/API.csproj": {
+    "/Users/ronaldavila/Documents/GitHub/ASP.netProject/ASP.Net/activity/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/activity/API/API.csproj",
+        "projectUniqueName": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/ASP.Net/activity/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/activity/API/API.csproj",
+        "projectPath": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/ASP.Net/activity/API/API.csproj",
         "packagesPath": "/Users/ronaldavila/.nuget/packages/",
-        "outputPath": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/activity/API/obj/",
+        "outputPath": "/Users/ronaldavila/Documents/GitHub/ASP.netProject/ASP.Net/activity/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ronaldavila/.nuget/NuGet/NuGet.Config"
