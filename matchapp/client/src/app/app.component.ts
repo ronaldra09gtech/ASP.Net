@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -21,5 +22,5 @@ export class AppComponent implements OnInit {
         next: (result:any) => {this.users = result},
         error: (error:any) => {console.log(error)}
     })
-}
+  }
 }
