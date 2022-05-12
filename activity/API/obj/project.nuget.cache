@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gnVk1Mt7YAO9n4+Ar7/s1GfeZwMTowZiOGACHx3lrXNH4/H/GVXrivVKUJtCQY8oZ+l+bgYQRw7cNWdBy+8AA==",
+  "success": true,
+  "projectFilePath": "/Users/nocron/Documents/GitHub/ASP.Net/activity/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nocron/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
