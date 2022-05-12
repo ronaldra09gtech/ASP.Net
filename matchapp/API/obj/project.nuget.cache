@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvBSEDrAX5+uV9Zg+Q3yr3gQTB1lzFRd5+eEkEZwMHdx656jA2FcmEkaNmitF4XUUMloho+jW7XphpR83aJ5uQ==",
+  "success": true,
+  "projectFilePath": "/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nocron/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
