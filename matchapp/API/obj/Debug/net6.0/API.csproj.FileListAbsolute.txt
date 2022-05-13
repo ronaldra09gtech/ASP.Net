@@ -65,3 +65,7 @@
 /Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/Mono.TextTemplating.dll
 /Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/System.CodeDom.dll
+/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
