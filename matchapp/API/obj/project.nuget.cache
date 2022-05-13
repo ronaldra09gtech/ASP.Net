@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AGfsbr+dYX4OLpFrrD6q7k3t9OoGHLuk4BNXA0SJlYcSGp9JqVEhuFgDK8ZZ9LDFZRi15CVilUM4tP32axanaA==",
+  "dgSpecHash": "v6sbV5nZKer0sH9sE9Zg1U64jcAh5UddxQuasH+AtZz5PYbeY2aPDFt/y9NDqTkI9yDJFDgWmYcsOvWo8UMntA==",
   "success": true,
   "projectFilePath": "/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/nocron/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.5/microsoft.aspnetcore.authentication.jwtbearer.6.0.5.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.data.sqlite.core/7.0.0-preview.4.22229.2/microsoft.data.sqlite.core.7.0.0-preview.4.22229.2.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.4.22229.2/microsoft.entityframeworkcore.7.0.0-preview.4.22229.2.nupkg.sha512",
@@ -27,6 +28,8 @@
     "/Users/nocron/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.4.22229.4/microsoft.extensions.primitives.7.0.0-preview.4.22229.4.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.17.0/microsoft.identitymodel.jsonwebtokens.6.17.0.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.identitymodel.logging/6.17.0/microsoft.identitymodel.logging.6.17.0.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/nocron/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.identitymodel.tokens/6.17.0/microsoft.identitymodel.tokens.6.17.0.nupkg.sha512",
     "/Users/nocron/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/nocron/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
