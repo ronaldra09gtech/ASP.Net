@@ -1729,11 +1729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/API.csproj",
+      "projectUniqueName": "/Users/nocron/Documents/Documents - NOC’s MacBook Pro/GitHub/ASP.Net/matchapp/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/API.csproj",
+      "projectPath": "/Users/nocron/Documents/Documents - NOC’s MacBook Pro/GitHub/ASP.Net/matchapp/API/API.csproj",
       "packagesPath": "/Users/nocron/.nuget/packages/",
-      "outputPath": "/Users/nocron/Documents/GitHub/ASP.Net/matchapp/API/obj/",
+      "outputPath": "/Users/nocron/Documents/Documents - NOC’s MacBook Pro/GitHub/ASP.Net/matchapp/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nocron/.nuget/NuGet/NuGet.Config"
